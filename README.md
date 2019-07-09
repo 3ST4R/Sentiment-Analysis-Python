@@ -1,6 +1,6 @@
 # Sentiment-Analysis-Python
 
-This project performs textual analysis on the financial reports to drive sentimental opinion, sentiment scores, readability etc.
+This project performs textual analysis on the financial reports to drive sentiment opinion, sentiment scores, readability etc.
 
 The project is categorized into 3 Parts:
 1.	Data Extraction
